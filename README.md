@@ -144,9 +144,7 @@ Covid-data-analysis/
 │
 ├── covid_data_analysis.ipynb   # Main analysis notebook
 ├── README.md                   # Project documentation
-└── data/                       # (Optional) dataset folder
 ```
-
 ---
 
 This README summarizes the complete analysis as implemented in the notebook.
